@@ -283,5 +283,6 @@ This project demonstrates full-stack development capabilities with modern techno
 **GitHub:** vivek5654  
 **LinkedIn:** vivek vardhan
 
-For any questions about the implementation or technical decisions, please feel free to reach out.#   a g e t w a r e - a s s i g n m e n t  
+For any questions about the implementation or technical decisions, please feel free to reach out.#   a g e t w a r e - a s s i g n m e n t 
+ 
  
